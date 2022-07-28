@@ -9,3 +9,5 @@ function digital_root(n) {
   }
   return n;
 }
+
+console.log(digital_root(546))
